@@ -1,19 +1,19 @@
 {
-    "version": "0.1.1",
+    "version": "0.1.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/samykabu/ghsync/releases/download/v0.1.1/ghsync_0.1.1_windows_amd64.zip",
+            "url": "https://github.com/samykabu/ghsync/releases/download/v0.1.2/ghsync_0.1.2_windows_amd64.zip",
             "bin": [
                 "ghsync.exe"
             ],
-            "hash": "7cf1a873a5d2ef819db88edeb0bb6641b08343ce7b6fdb836f2d15022eb213b7"
+            "hash": "139e3d1a4b921885c402ca19bbb3517fa071879a9a41e377b0fefed1aa91a9db"
         },
         "arm64": {
-            "url": "https://github.com/samykabu/ghsync/releases/download/v0.1.1/ghsync_0.1.1_windows_arm64.zip",
+            "url": "https://github.com/samykabu/ghsync/releases/download/v0.1.2/ghsync_0.1.2_windows_arm64.zip",
             "bin": [
                 "ghsync.exe"
             ],
-            "hash": "bdba4564fc3603c3e5f356beb9446eb608af259c338533f35baa569dbe181192"
+            "hash": "565756fc55f54eb08d6d066016b6ebf506902c0bce27ab7d0f1b857ee0b43134"
         }
     },
     "homepage": "https://github.com/samykabu/ghsync",
