@@ -1,0 +1,25 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/samykabu/ghsync/releases/download/v0.1.0/ghsync_0.1.0_windows_amd64.zip",
+            "bin": [
+                "ghsync.exe"
+            ],
+            "hash": "96ec6b9de93457f61a40d2cc98502a78412afb0d4c824cfb8eda869a5178f5c5"
+        },
+        "arm64": {
+            "url": "https://github.com/samykabu/ghsync/releases/download/v0.1.0/ghsync_0.1.0_windows_arm64.zip",
+            "bin": [
+                "ghsync.exe"
+            ],
+            "hash": "2ac7a47df086facef56f136eb695dd616473446beb7b3bce3e8e42c0e8568c28"
+        }
+    },
+    "homepage": "https://github.com/samykabu/ghsync",
+    "license": "MIT",
+    "description": "Clone, update and back up every repo of GitHub accounts.",
+    "depends": [
+        "git"
+    ]
+}
